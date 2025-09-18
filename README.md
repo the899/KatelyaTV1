@@ -1,3 +1,7 @@
+* https://github.com/katelya77
+* 没有在 cf 部署成功
+* 先从 github clone 后，删除 .git，再提交上去
+* 250918
 <div align="center">
   <img src="public/logo.png" alt="KatelyaTV Logo" width="128" />
 
